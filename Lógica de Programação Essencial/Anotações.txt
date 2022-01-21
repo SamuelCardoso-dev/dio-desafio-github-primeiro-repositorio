@@ -1,0 +1,5 @@
+Lógica : "Coerência de raciocínio, de idéias." "Sequência coerente, regular e necessária de acontecimentos, coisas".
+
+Algortimo : "É uma sequência de passos que resolve um problema".
+
+Pseudocódigo: " É uma maneira genérica de escrever um algortimo, utilizando uma linguagem simples(nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa)".
