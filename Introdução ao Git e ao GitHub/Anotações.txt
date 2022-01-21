@@ -1,2 +1,21 @@
 Link para donwload do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos básicos do Git no Windows:
+- cd
+- dir
+- mkdir
+- del/rmdir
+
+Comandos básicos do Git no Unix:
+
+- cd
+- ls
+- mkdir
+- rm -rf
+
+Três tipos básicos de objetos do Git:
+
+- BLOBS
+- TREES
+- COMMITS	
