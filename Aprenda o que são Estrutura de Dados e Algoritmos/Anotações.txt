@@ -1,0 +1,15 @@
+Estrutura de Dados: É uma estrutura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento,
+de forma que os dados possam ser utilizados de forma correta. 
+
+Vetor ou array unidimensional: É uma variável que armazena várias variáveis do mesmo tipo.
+
+Matriz ou array multidimensional: É um vetor de vetores. Uma matriz é um vetor que possui duas ou mais dimensões.
+
+Registros: Enquanto Arrays nos permitem armazenar vários dados de um único tipo, o recurso de Registro nos permite armazenar
+mais de um tipo de dado.
+
+Listas: A diferença entre listas e arrays é a de que as listas possuem tamanho ajustável, enquanto arrays possuem tamanho fixo.
+
+Pilhas: É uma estrtura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado.
+
+
